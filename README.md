@@ -1,0 +1,1 @@
+[정직하게 코딩하며 배우는 딥러닝 입문](http://www.easyspub.co.kr/20_Menu/BookView/325/PUB)으로 학습한 기록입니다.
